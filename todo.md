@@ -1,5 +1,5 @@
 **1,2,6,7,10,13**
-> Done: 1, 2, 6, 7, 
+> Done (nelson): 1, 2, 6, 7, 
 
 ### Preparación de Datos y Entorno de Trabajo
 1. *Adaptar y Preparar el Conjunto de Datos*:
